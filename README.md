@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Nishant
 
-* 🔭 I’m currently working on building a ** Local password manager application**
+* 🔭 I’m currently working on building a **Local password manager application**
 * 🌱 I’m currently learning **Next.js, FastAPI, and LLM integrations**
 * 👯 I’m looking to collaborate on **AI + full-stack projects**
 * 🤔 I’m looking for help with **scaling and stabilizing AI systems**
@@ -37,4 +37,3 @@
 
 ---
 
-*"Trying to build things that actually work… not just look cool on paper."*
