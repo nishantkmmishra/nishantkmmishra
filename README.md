@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**nishantkmmishra/nishantkmmishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Nishant
 
-Here are some ideas to get you started:
+* 🔭 I’m currently working on building a ** Local password manager application**
+* 🌱 I’m currently learning **Next.js, FastAPI, and LLM integrations**
+* 👯 I’m looking to collaborate on **AI + full-stack projects**
+* 🤔 I’m looking for help with **scaling and stabilizing AI systems**
+* 💬 Ask me about **web dev, AI tools, or breaking things accidentally**
+* 📫 How to reach me: **Add your email / GitHub here**
+* 😄 Pronouns: **He/Him**
+* ⚡ Fun fact: **I prefer simple systems after breaking enough complex ones**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+* Frontend: **Next.js, Tailwind CSS**
+* Backend: **FastAPI**
+* AI/LLM: **OpenAI APIs, Ollama, Mistral**
+* Tools: **Git, GitHub, VS Code**
+
+---
+
+## 🎯 Goals
+
+* Build **production-ready applications**
+* Improve **consistency and execution**
+* Master **AI + full-stack development**
+
+---
+
+## 📈 Currently Improving
+
+* English writing & communication
+* Handwriting (yes, still working on it)
+* Confidence and consistency
+
+---
+
+*"Trying to build things that actually work… not just look cool on paper."*
