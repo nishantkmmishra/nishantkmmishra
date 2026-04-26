@@ -1,7 +1,7 @@
 # Nishant Kumar Mishra
-### Full-Stack Developer | AI Systems Architect
+### Full-Stack Developer building real-time systems and AI-powered tools
 
-I design and build production-grade applications that bridge the gap between high-fidelity user interfaces and advanced AI backends. My focus is on creating clean, service-oriented systems that prioritize operational clarity and technical precision.
+I build full-stack applications focused on real-time systems, automation, and AI-assisted workflows. Currently working on **Space Studio** — a professional dashboard for managing Discord communities with integrated knowledge systems and moderation tools.
 
 ---
 
@@ -11,42 +11,63 @@ I design and build production-grade applications that bridge the gap between hig
   <img src="https://github.com/nishantkmmishra/Space-Studio/blob/main/docs/assets/logo.png?raw=true" width="120" height="120" alt="Space Studio Logo" />
 </p>
 
-**Space Studio** is a professional administrative dashboard for AI-enhanced Discord community management. It provides a human-in-the-loop audit layer for RAG engines, knowledge base curation, and real-time conversation monitoring.
+Space Studio is an operations center for Discord community managers, providing a human-in-the-loop audit layer for AI interactions.
+
+**Core Capabilities**
+- Real-time moderation logging and audit trailing.
+- Knowledge base with structured retrieval (RAG).
+- Discord bot ↔ Dashboard integration (in progress).
+- Multi-server management architecture.
 
 ### Technical Showcase
 
 | Knowledge Orchestration | Conversation Audit |
 | :--- | :--- |
 | ![Knowledge Base](https://github.com/nishantkmmishra/Space-Studio/blob/main/docs/assets/knowledge_base.png?raw=true) | ![Conversations](https://github.com/nishantkmmishra/Space-Studio/blob/main/docs/assets/chats.png?raw=true) |
+| *Structured interface for managing and querying stored knowledge.* | *Tracks and analyzes Discord activity with moderation insights.* |
 
 | Community Governance | AI Configuration |
 | :--- | :--- |
 | ![Members](https://github.com/nishantkmmishra/Space-Studio/blob/main/docs/assets/members.png?raw=true) | ![Settings](https://github.com/nishantkmmishra/Space-Studio/blob/main/docs/assets/settings_ai.png?raw=true) |
+| *Registry for member behavior tracking and role management.* | *Granular control over AI providers and model parameters.* |
 
-👉 **Repository:** [nishantkmmishra/Space-Studio](https://github.com/nishantkmmishra/Space-Studio)
+👉 **View the repository:** [nishantkmmishra/Space-Studio](https://github.com/nishantkmmishra/Space-Studio)
 
 ---
 
 ## Technical Stack
 
-*   **Frontend**: React 18, Vite, Next.js, Tailwind CSS, TanStack Query
-*   **Backend**: Node.js, FastAPI, Supabase (PostgreSQL), REST/SSE
-*   **Intelligence**: RAG Implementation, OpenRouter, Gemini, OpenAI, pgvector
-*   **Engineering**: SOA Patterns, Git, Turborepo, GitHub Actions
+**Frontend**  
+React, TypeScript, Tailwind CSS, TanStack Query
+
+**Backend**  
+Supabase (PostgreSQL, Auth, Realtime), Node.js, FastAPI
+
+**Architecture**  
+Modular services, API-driven design, monorepo (Turborepo)
+
+**AI / Data (Planned)**  
+Vector search, semantic retrieval
 
 ---
 
 ## Current Focus & Objectives
 
-- **Building**: Scaling the Space Studio infrastructure for multi-tenant community operations.
-- **Researching**: Advanced semantic retrieval techniques and distributed bot architectures.
-- **Goal**: Architecting systems where AI serves as a transparent, auditable partner to human operators.
+**Current Focus**
+- Scaling Space Studio for multi-server support.
+- Implementing Discord bot ↔ dashboard bidirectional integration.
+- Designing real-time event pipelines using Supabase Broadcast.
+
+**Next Steps**
+- Add semantic search for the knowledge base.
+- Introduce role-based access control (RBAC) for studio operators.
 
 ---
 
-## Connect
+## Contact
 
 - **Email**: [nishantkmmishra@gmail.com](mailto:nishantkmmishra@gmail.com)
-- **Status**: Open to technical collaborations on AI + Full-Stack architecture.
+- **LinkedIn**: [linkedin.com/in/nishantkmmishra](https://linkedin.com/in/nishantkmmishra)
+- **GitHub**: [github.com/nishantkmmishra](https://github.com/nishantkmmishra)
 
 *"I prefer simple systems after breaking enough complex ones."*
