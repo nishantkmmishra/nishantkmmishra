@@ -1,44 +1,52 @@
-# 👨‍💻 Hi, I'm Nishant Kumar Mishra
-### Full-Stack Developer | AI Enthusiast | System Architect
+# Nishant Kumar Mishra
+### Full-Stack Developer | AI Systems Architect
 
-I'm a developer focused on building production-ready applications that merge clean, high-fidelity user interfaces with powerful AI backends. I thrive on simplifying complex systems and building tools that enhance productivity and automation.
+I design and build production-grade applications that bridge the gap between high-fidelity user interfaces and advanced AI backends. My focus is on creating clean, service-oriented systems that prioritize operational clarity and technical precision.
 
 ---
 
-## 🌌 Featured Project: Space Studio
-**Space** is a premium management dashboard for AI-powered Discord communities. It allows server owners to manage knowledge bases, monitor real-time AI logs, and tune bot personalities through a high-fidelity "Parchment" interface.
+## Featured Project: Space Studio
 
-### 🖼️ Project Showcase
-| Knowledge Base | AI Control Room |
+<p align="center">
+  <img src="https://github.com/nishantkmmishra/Space-Studio/blob/main/docs/assets/logo.png?raw=true" width="120" height="120" alt="Space Studio Logo" />
+</p>
+
+**Space Studio** is a professional administrative dashboard for AI-enhanced Discord community management. It provides a human-in-the-loop audit layer for RAG engines, knowledge base curation, and real-time conversation monitoring.
+
+### Technical Showcase
+
+| Knowledge Orchestration | Conversation Audit |
 | :--- | :--- |
-| ![Knowledge Base](https://github.com/nishantkmmishra/spacebot/blob/main/docs/screenshots/knowledge_base.png?raw=true) | ![Console](https://github.com/nishantkmmishra/spacebot/blob/main/docs/screenshots/console.png?raw=true) |
+| ![Knowledge Base](https://github.com/nishantkmmishra/Space-Studio/blob/main/docs/assets/knowledge_base.png?raw=true) | ![Conversations](https://github.com/nishantkmmishra/Space-Studio/blob/main/docs/assets/chats.png?raw=true) |
 
-| AI Configuration | Conversations |
+| Community Governance | AI Configuration |
 | :--- | :--- |
-| ![Settings](https://github.com/nishantkmmishra/spacebot/blob/main/docs/screenshots/settings_ai.png?raw=true) | ![Chats](https://github.com/nishantkmmishra/spacebot/blob/main/docs/screenshots/chats.png?raw=true) |
+| ![Members](https://github.com/nishantkmmishra/Space-Studio/blob/main/docs/assets/members.png?raw=true) | ![Settings](https://github.com/nishantkmmishra/Space-Studio/blob/main/docs/assets/settings_ai.png?raw=true) |
 
-👉 **View the repository:** [nishantkmmishra/spacebot](https://github.com/nishantkmmishra/spacebot)
-
----
-
-## 🛠️ Tech Stack & Skills
-
-- **Frontend:** React (Vite), Next.js, Tailwind CSS, Shadcn UI
-- **Backend:** FastAPI, Node.js (Express), Supabase (PostgreSQL)
-- **AI/LLM:** OpenRouter, Gemini, OpenAI, RAG Implementation, Ollama
-- **Tools:** Git, GitHub Actions, Turborepo, VS Code
+👉 **Repository:** [nishantkmmishra/Space-Studio](https://github.com/nishantkmmishra/Space-Studio)
 
 ---
 
-## 🌱 Current Learning & Goals
-- 🔭 **Building:** Stabilizing and scaling AI-driven community management tools.
-- 🌱 **Learning:** Advanced RAG techniques (Semantic Vector Search) and distributed systems.
-- 🎯 **Goal:** Mastering the intersection of AI and production-grade full-stack software.
+## Technical Stack
+
+*   **Frontend**: React 18, Vite, Next.js, Tailwind CSS, TanStack Query
+*   **Backend**: Node.js, FastAPI, Supabase (PostgreSQL), REST/SSE
+*   **Intelligence**: RAG Implementation, OpenRouter, Gemini, OpenAI, pgvector
+*   **Engineering**: SOA Patterns, Git, Turborepo, GitHub Actions
 
 ---
 
-## ⚡ Connect with me
-- 📧 [nishantkmmishra@gmail.com](mailto:nishantkmmishra@gmail.com)
-- 🤝 Open to collaborations on **AI + Full-Stack** projects.
+## Current Focus & Objectives
+
+- **Building**: Scaling the Space Studio infrastructure for multi-tenant community operations.
+- **Researching**: Advanced semantic retrieval techniques and distributed bot architectures.
+- **Goal**: Architecting systems where AI serves as a transparent, auditable partner to human operators.
+
+---
+
+## Connect
+
+- **Email**: [nishantkmmishra@gmail.com](mailto:nishantkmmishra@gmail.com)
+- **Status**: Open to technical collaborations on AI + Full-Stack architecture.
 
 *"I prefer simple systems after breaking enough complex ones."*
